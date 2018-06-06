@@ -25,7 +25,7 @@ SECRET_KEY = 'w5^qv_10q3+^w!qxxmymv4zu2ke%@vafs$$%n70fca4b2v@_l-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['xforce16.pythonanywhere.com']
+ALLOWED_HOSTS = ['xforce16.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
