@@ -15,7 +15,7 @@ h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
 }
 .date {
-    float: left;
+    float: right;
     color: #993333;
 }
 .save {
